@@ -21,5 +21,5 @@ modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
 description='''
-Heat Lamp adds warming mechanics and light sources to Minecraft.
+HeatLamp mod for InfrastructureSickos Minecraft server.
 '''
